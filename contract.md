@@ -10,7 +10,7 @@ This contract makes sure that you ({{client}})  and I ({{developer}}) are clear 
 Timeline
 
 ## brief statement of costs 
-The core features  of the site (installation, configuration, and design of a six page Wordpress site) will launch by March 31st {{Deadline}}.
+The core features  of the site (installation, configuration, and design {{features}}) will launch by March 31st {{Deadline}}.
 Costs 
 
 Core features - {{$}}  
