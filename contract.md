@@ -1,6 +1,6 @@
-Developer:  
-Client:  
-Project:   
+Developer: {{developer}}  
+Client: {{client}}  
+Project: {{project-name}}  
 Core Feature Launch: {{date}}  
 Project cost (as proposed): {{$}}  
 
