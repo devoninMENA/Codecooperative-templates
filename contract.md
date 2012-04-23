@@ -19,7 +19,7 @@ Additional options - {{$}}
 
 Total: {{$}}  
 
-40% ($) of the core features amount  ($) is due within one week of receiving and signing this contract.   
+40% ({{$}}) of the core features amount  ({{$}}) is due within one week of receiving and signing this contract.   
 
 Full payment is due upon completion of core and additional features outlined in the attached “Scope of Work” document.  
 
