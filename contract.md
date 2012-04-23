@@ -13,15 +13,15 @@ Timeline
 The core features  of the site (installation, configuration, and design of a six page Wordpress site) will launch by March 31st {{Deadline}}.
 Costs 
 
-Core features - {{$}}
-Hosting configuration - {{$}}
-Additional options - {{$}}
+Core features - {{$}}  
+Hosting configuration - {{$}}  
+Additional options - {{$}}  
 
-Total: {{$}}
+Total: {{$}}  
 
-40% ($) of the core features amount  ($) is due within one week of receiving and signing this contract. 
+40% ($) of the core features amount  ($) is due within one week of receiving and signing this contract.   
 
-Full payment is due upon completion of core and additional features outlined in the attached “Scope of Work” document.
+Full payment is due upon completion of core and additional features outlined in the attached “Scope of Work” document.  
 
 
 
