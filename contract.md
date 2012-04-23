@@ -1,9 +1,10 @@
-Developer: 
-Client: 
-Project: 
-Core Feature Launch: {{date}}
-Project cost (as proposed): {{$}}
-Summary
+Developer:  
+Client:  
+Project:   
+Core Feature Launch: {{date}}  
+Project cost (as proposed): {{$}}  
+
+##Summary
 
 This contract makes sure that you ({{client}})  and I ({{developer}}) are clear on the goals, timeline, and features of the website we are going to be designing together. You are an important part of the process, and agreeing on a plan of action creates a clear path to a beautiful website. 
 Timeline
